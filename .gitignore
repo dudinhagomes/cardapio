@@ -1,0 +1,13 @@
+# node_modules (todas as dependências instaladas)
+node_modules/
+
+# build do Vite
+dist/
+
+# logs
+*.log
+
+# configurações do sistema/IDE
+.DS_Store
+.env
+.vscode/
